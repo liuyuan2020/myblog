@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f76d119-ee28-44c0-8095-984a49d107ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/views/css/2019/032401.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/nav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/nav/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/head.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/042301.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/042302.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/051201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/082101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/112101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2015/112201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2017/032401.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/article/2017/082201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/backEnd/2017/110101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/backEnd/2017/110102.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2015/071301.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2015/112601.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2017/032201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2017/071301.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2017/102401.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2017/110901.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/essay/2017/111301.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2017/052401.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2017/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2017/122801.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/- ps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/- 算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/ECMAScript-6-2015-新-js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/ES6新方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/Felx-布局.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/HTML5和CSS3新增.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/JS的值类型和引用类型总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/Modals里面写函数方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React 开发.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React中的PropTypes类型检查.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React基础-评论展示和删除以及受控组件和非受控组件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React开发京东轮播图.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React开发例子--点击按钮出现侧边栏.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/React路由组件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/Swiper-插件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/VScode中修改代码片段.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/VUE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/ajax请求.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/better-scroll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/css3-animate-动画.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/css3中background、text-shadow、box-shadow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/css取消双击文字变成选选中状态.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/dom-操作.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/es6 Promise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/event-事件对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/functino-函数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/git本地个人博客.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/jQuery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/jQuery中的事件冒泡.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/js基础知识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/js语句.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/linux系统中如何制作gif图.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/lodash库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/mint-ui(vue.js的移动端ui框架).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/object-对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/reCharts---用 react写图表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/react 项目部署.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/react动画--react-transition-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/react小例子---TO DO LIST.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/react组件中设置私有样式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/redux 基础案例 react-redux-TODO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/shell-命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/webpack-编译-es6-语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/webpack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/wow-js-和-bootstrap-两种js插件库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/zepto-js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/东方国信面试题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/事件委托实例2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/伪类选择器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/关于使用ant-design-的可编辑表格的经验分享.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/利用终端命令实现数据分享.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/原生js-dom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/响应式设计.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/字符串-内置对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/学习记录-定位与浮动.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/无名之辈.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/日期对象-内置对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/模块化开发.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/正则表达式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/活着观后感.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/浏览器对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/用-jq-扩展-原生-js-写轮播图.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/用原生js写animate函数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/用构造函数仿jq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/类数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/给tr加边框无效的解决方案.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/frontEnd/2018/行内元素和块元素.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2017/071801.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/2018/052001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2017/121801.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2018/090901.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2018/100801.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2018/121201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2019/031201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/2019/041101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/personalInfo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/threeMonthStudy/2019/0122.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/threeMonthStudy/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gJs8zaoKHEV4poXE06WAKXuOGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f76d119-ee28-44c0-8095-984a49d107ac" name="Default Changelist" comment="" />
+      <created>1597843873123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597843873123</updated>
+      <workItem from="1597843874163" duration="2663000" />
+      <workItem from="1598581628127" duration="2637000" />
+      <workItem from="1598586622421" duration="1651000" />
+      <workItem from="1598842679216" duration="4050000" />
+      <workItem from="1598853305827" duration="4191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1598853379676">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="594" y="315" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598853379676" />
+    <state x="679" y="360" width="691" height="560" key="find.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1598592319071" />
+  </component>
+</project>
