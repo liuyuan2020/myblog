@@ -20,43 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f76d119-ee28-44c0-8095-984a49d107ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/views/browser/2019/051001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/browser/2019/051102.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/css/2019/050702.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/jdk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/numberType.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/quota.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/url.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2018/052502.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2018/053003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2018/060101.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2019/050601.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2020/042501.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/javascript/2020/043002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/vue/2020/041301.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/vue/2020/041502.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/vue/2020/041603.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/work/2019/052101.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/work/2020/090101.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/views/HTTP/2018/102401.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/views/css/2020/020401.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/views/work/2020/080101.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/views/work/2020/082302.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/css/2019/032401.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/2019/032401.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/1-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/SSTap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/SocksCap64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/payinfo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/images/tea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/browser/2019/051001.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/browser/2019/051001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/css/2019/050702.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/2019/050702.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/javascript/2018/053003.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/2018/053003.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/vue/2020/041301.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/2020/041301.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/vue/2020/041502.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/2020/041502.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/vue/2020/041603.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/2020/041603.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/work/2020/090101.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/work/2020/090103.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +91,17 @@
       <workItem from="1598586622421" duration="1651000" />
       <workItem from="1598842679216" duration="4050000" />
       <workItem from="1598853305827" duration="16568000" />
-      <workItem from="1598948411574" duration="1566000" />
+      <workItem from="1598948411574" duration="2978000" />
+      <workItem from="1599013778187" duration="177000" />
+      <workItem from="1599046092312" duration="2103000" />
+      <workItem from="1599122300051" duration="1598000" />
+      <workItem from="1599183736727" duration="2267000" />
+      <workItem from="1599353109702" duration="5387000" />
+      <workItem from="1600050856209" duration="581000" />
+      <workItem from="1600161607266" duration="367000" />
+      <workItem from="1600225926622" duration="532000" />
+      <workItem from="1600306536050" duration="1166000" />
+      <workItem from="1600392608150" duration="7000" />
     </task>
     <servers />
   </component>
@@ -136,6 +121,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="611" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599122399340">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="611" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1020@0.23.1792.1020" timestamp="1599122399340" />
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1598926752505">
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
@@ -161,10 +150,10 @@
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1792.1020@0.23.1792.1020" timestamp="1598926752505" />
-    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1598931164773">
+    <state x="594" y="310" width="604" height="490" key="find.popup" timestamp="1599122324104">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="594" y="315" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598931164773" />
+    <state x="594" y="310" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599122324104" />
     <state x="679" y="360" width="691" height="560" key="find.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1598592319071" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1598931715978">
       <screen x="0" y="0" width="1792" height="1120" />
